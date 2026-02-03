@@ -63,7 +63,7 @@ steamapps/downloading
 
 ### Запуск
 ```bash
-python monitor.py
+python steammonitor.py
 ````
 
 ---
